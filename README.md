@@ -2,6 +2,10 @@
 
 OpenCV implementation of canny algorithm to detect free parking lot with predefined ROI
 
+![Free](/docs/frame_100.jpg)
+
+![Occupied](/docs/frame_200.jpg)
+
 ## Getting Started
 
 First of all, let's setup a new python environment
