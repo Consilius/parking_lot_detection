@@ -1,5 +1,5 @@
 opencv-contrib-python==3.4.5.20
-opencv-python==3.4.5.20
+opencv-python==3.4.7.28
 pathlib==1.0.1
 PyYAML==5.1
 requests==2.21.0
